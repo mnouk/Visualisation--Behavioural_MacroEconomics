@@ -11,4 +11,10 @@ We then propose to check this for countries and see if there is a correlation be
 We propose to do this for Switzerland, Italy, Germany, India and Kenya( or any other countries whose data is relatively complete for the chosen time period with the world bank c.f. http://databank.worldbank.org/data/home.aspx)
 
 
-Disclaimer: The above proposal is bound to change during the course of the project based on the data and findings.
+# Run : 
+
+To run the visualisation download the Bokeh_server and Data_countries folders onto your machine. 
+
+Fire up a python shell in the Bokeh_server and run bokeh commands (bokeh serve --show main.py).(http://bokeh.pydata.org/en/latest/docs/user_guide/server.html)
+
+
