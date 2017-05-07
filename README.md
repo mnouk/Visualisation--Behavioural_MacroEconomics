@@ -26,6 +26,8 @@ The six dimensions are:
 
 Watch the "Demo" video and follow the steps to play with the server yourself! (commands for Mac/Linux) 
 
+<video src="https://youtu.be/eFMffck1N10" width="320" height="200" controls preload></video>
+
 (Or) 
 
 Follow the steps below: 
