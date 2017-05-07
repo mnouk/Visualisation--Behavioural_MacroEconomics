@@ -24,14 +24,18 @@ The six dimensions are:
   
 ## HOW TO RUN : 
 
-Watch the "Demo" video and follow the steps to play with the server yourself! (commands for Mac/Linux) Or follow the steps below: 
+Watch the "Demo" video and follow the steps to play with the server yourself! (commands for Mac/Linux) 
+
+(Or) 
+
+Follow the steps below: 
 
 To run the visualisation download the Bokeh_server folder onto your machine. 
 
 Change directory into the Bokeh_server and run bokeh command (bokeh serve --show main.py).(http://bokeh.pydata.org/en/latest/docs/user_guide/server.html)
 
 ## TIPS : 
-  1. Choose the X and Y axis variables as desired and hit play to see time evolution. Enjoy! 
+  1. Choose the X and Y axis variables as desired and hit play to see time evolution. 
   2. Hit reset button on the graph if you change variables while running the animation.
   3. The server looks best when visualised full screen and with inverted colours!
 
