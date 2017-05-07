@@ -24,9 +24,9 @@ The six dimensions are:
   
 ## HOW TO RUN : 
 
-Watch the "Demo" video and follow the steps to play with the server yourself! (commands for Mac/Linux) 
+Watch the Demo below and follow the steps to play with the server yourself! (commands for Mac/Linux) 
 
-<video src="https://youtu.be/eFMffck1N10" width="320" height="200" controls preload></video>
+![viz_demo](https://cloud.githubusercontent.com/assets/22515829/25783232/eb94f4ac-3358-11e7-8376-3f1ed3fe0794.gif)
 
 (Or) 
 
