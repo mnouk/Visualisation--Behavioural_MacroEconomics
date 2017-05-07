@@ -9,7 +9,7 @@ from bokeh.plotting import *
 from os.path import dirname, join
 
 countries = ['Switzerland','United States', 'India','France', 'Italy','Australia','Singapore', 'Japan','Kenya','Brazil']
-full_df = pd.read_csv('data_countries/0_Data_All_Countries.csv', index_col = ['Country', 'Year'])
+full_df = pd.read_csv('Data_All_Countries.csv', index_col = ['Country', 'Year'])
 
 x_labels = ['Household final consumption expenditure per capita (% change)','Merchandise imports from high-income economies (% of total merchandise imports)']
 y_labels = list(y for y in full_df.columns if('%' in y and y not in x_labels))
