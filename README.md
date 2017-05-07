@@ -1,5 +1,8 @@
 ## DATA VISUALISATION PROJECT : BEHAVIOURAL MACROECONOMICS 
 
+![viz_demo](https://cloud.githubusercontent.com/assets/22515829/25783232/eb94f4ac-3358-11e7-8376-3f1ed3fe0794.gif)
+
+
 The idea of the project is to corroborate certain macroeconomic principles such as the relationship between the idea of relative wealth and spending behaviour.
 
 To do so, we to study the evolution of inflation versus household consumption and house price index and household consumption. The aim would then be to calculate the latency in the changes in the dependent trend (household consumption) in response to those in the inflation rate / house price index.
@@ -24,9 +27,7 @@ The six dimensions are:
   
 ## HOW TO RUN : 
 
-Watch the Demo below and follow the steps to play with the server yourself! (commands for Mac/Linux) 
-
-![viz_demo](https://cloud.githubusercontent.com/assets/22515829/25783232/eb94f4ac-3358-11e7-8376-3f1ed3fe0794.gif)
+Watch the Demo(gif) above and follow the steps to play with the server yourself! (commands for Mac/Linux) 
 
 (Or) 
 
